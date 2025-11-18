@@ -7,28 +7,32 @@ export function TeamSection() {
       rollNumber: '23781A33J3',
       role: 'Team Leader',
       isLeader: true,
-      image: '/Images/Dharmendra.jpg',
+      // FIXED: Added dot (.)
+      image: './Images/Dharmendra.jpg',
     },
     {
       name: 'Rajan Prasaila Yadav',
       rollNumber: '23781A33J5',
       role: 'Team Member',
       isLeader: false,
-      image: '/Images/Rajan.png.png',
+      // FIXED: Added dot (.)
+      image: './Images/Rajan.png.png',
     },
     {
       name: 'Chode S Arjun Kumar',
       rollNumber: '23781A33J2',
       role: 'Team Member',
       isLeader: false,
-      image: '/Images/Chode S Arjun Kumar.png',
+      // FIXED: Added dot (.)
+      image: './Images/Chode S Arjun Kumar.png',
     },
     {
       name: 'Nitesh Mehta',
       rollNumber: '23781A33J5',
       role: 'Team Member',
       isLeader: false,
-      image: '/Images/Nitesh.jpg',
+      // FIXED: Added dot (.)
+      image: './Images/Nitesh.jpg',
     },
   ];
 

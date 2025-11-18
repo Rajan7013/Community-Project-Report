@@ -4,32 +4,38 @@ import { Camera, ExternalLink } from 'lucide-react';
 export function PhotoGallery() {
   const fieldPhotos = [
     {
-      url: '/Gallery/Image-1.png',
+      // FIXED: Added dot (.)
+      url: './Gallery/Image-1.png',
       caption: 'Project field work and community engagement',
       category: 'Field Visit'
     },
     {
-      url: '/Gallery/Image-2.png',
+      // FIXED: Added dot (.)
+      url: './Gallery/Image-2.png',
       caption: 'Team activities and project documentation',
       category: 'Team Activity'
     },
     {
-      url: '/Gallery/Image-3.png',
+      // FIXED: Added dot (.)
+      url: './Gallery/Image-3.png',
       caption: 'Community awareness session with farmers',
       category: 'Awareness'
     },
     {
-      url: '/Gallery/Image-5.png',
+      // FIXED: Added dot (.)
+      url: './Gallery/Image-5.png',
       caption: 'Project implementation and field work',
       category: 'Field Visit'
     },
     {
-      url: '/Gallery/Image -4.png',
+      // FIXED: Added dot (.)
+      url: './Gallery/Image -4.png',
       caption: 'Community interaction and engagement',
       category: 'Community'
     },
     {
-      url: '/Gallery/Image-1 (2).png',
+      // FIXED: Added dot (.)
+      url: './Gallery/Image-1 (2).png',
       caption: 'Project activities and team collaboration',
       category: 'Team Activity'
     }
