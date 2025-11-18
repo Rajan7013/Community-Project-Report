@@ -1,23 +1,30 @@
 const CACHE_NAME = 'csp-grami-pashu-v1';
+
+// FIXED: Changed all paths to start with dot (.) 
+// This allows it to work inside the GitHub Pages subfolder
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icon-192x192.png',
-  '/icon-512x512.png'
+  './',
+  './index.html',
+  './manifest.json',
+  './icon-192x192.png',
+  './icon-512x512.png'
 ];
 
 // Install event - cache files
 self.addEventListener('install', event => {
+  // Force the waiting service worker to become the active service worker
+  self.skipWaiting();
+
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then(cache => {
-        return cache.addAll(urlsToCache).catch(err => {
-          console.log('Cache addAll error:', err);
-        });
+        console.log('Opened cache');
+        return cache.addAll(urlsToCache);
+      })
+      .catch(err => {
+        console.log('Cache addAll error:', err);
       })
   );
-  self.skipWaiting();
 });
 
 // Activate event - clean up old caches
@@ -27,12 +34,14 @@ self.addEventListener('activate', event => {
       return Promise.all(
         cacheNames.map(cacheName => {
           if (cacheName !== CACHE_NAME) {
+            console.log('Deleting old cache:', cacheName);
             return caches.delete(cacheName);
           }
         })
       );
     })
   );
+  // Take control of all clients immediately
   self.clients.claim();
 });
 
@@ -51,14 +60,14 @@ self.addEventListener('fetch', event => {
           return response;
         }
 
-        return fetch(event.request).then(response => {
-          // Don't cache non-successful responses
-          if (!response || response.status !== 200 || response.type !== 'basic') {
-            return response;
+        return fetch(event.request).then(networkResponse => {
+          // Don't cache non-successful responses or non-basic types (like extensions)
+          if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
+            return networkResponse;
           }
 
           // Clone the response
-          const responseToCache = response.clone();
+          const responseToCache = networkResponse.clone();
 
           // Cache successful responses
           caches.open(CACHE_NAME)
@@ -66,18 +75,13 @@ self.addEventListener('fetch', event => {
               cache.put(event.request, responseToCache);
             });
 
-          return response;
+          return networkResponse;
         });
       })
       .catch(() => {
-        // Return a custom offline page if needed
-        return new Response('Offline - Please check your connection', {
-          status: 503,
-          statusText: 'Service Unavailable',
-          headers: new Headers({
-            'Content-Type': 'text/plain'
-          })
-        });
+        // Optional: Return a custom offline page if needed
+        // For now, we just let it fail gracefully if offline and not in cache
+        console.log('Fetch failed; returning offline content if available.');
       })
   );
 });
