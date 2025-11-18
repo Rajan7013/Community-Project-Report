@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create App Icons</title>
+</head>
+<body>
+    <h1>Creating App Icons...</h1>
+    <canvas id="canvas192"></canvas>
+    <canvas id="canvas512"></canvas>
+    <p>Icons created. Check the public folder.</p>
+    
+    <script>
+        function createIcon(size) {
+            const canvas = document.createElement('canvas');
+            canvas.width = size;
+            canvas.height = size;
+            const ctx = canvas.getContext('2d');
+            
+            // Gradient background
+            const gradient = ctx.createLinearGradient(0, 0, size, size);
+            gradient.addColorStop(0, '#15803d');
+            gradient.addColorStop(1, '#0284c7');
+            ctx.fillStyle = gradient;
+            ctx.fillRect(0, 0, size, size);
+            
+            // Draw rounded corners
+            ctx.fillStyle = gradient;
+            ctx.beginPath();
+            ctx.moveTo(size * 0.1, 0);
+            ctx.lineTo(size * 0.9, 0);
+            ctx.quadraticCurveTo(size, 0, size, size * 0.1);
+            ctx.lineTo(size, size * 0.9);
+            ctx.quadraticCurveTo(size, size, size * 0.9, size);
+            ctx.lineTo(size * 0.1, size);
+            ctx.quadraticCurveTo(0, size, 0, size * 0.9);
+            ctx.lineTo(0, size * 0.1);
+            ctx.quadraticCurveTo(0, 0, size * 0.1, 0);
+            ctx.fill();
+            
+            // Draw cow emoji
+            ctx.font = `bold ${size * 0.6}px Arial`;
+            ctx.fillStyle = '#ffffff';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.fillText('🐄', size / 2, size / 2.5);
+            
+            // Draw text
+            ctx.font = `bold ${size * 0.15}px Arial`;
+            ctx.fillStyle = '#ffffff';
+            ctx.fillText('CSP', size / 2, size * 0.85);
+            
+            return canvas.toDataURL('image/png');
+        }
+        
+        // Create and download icons
+        function downloadIcon(dataUrl, filename) {
+            const link = document.createElement('a');
+            link.href = dataUrl;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+        
+        // Generate icons
+        const icon192 = createIcon(192);
+        const icon512 = createIcon(512);
+        
+        // Display in canvas for verification
+        document.getElementById('canvas192').width = 192;
+        document.getElementById('canvas192').height = 192;
+        const ctx192 = document.getElementById('canvas192').getContext('2d');
+        const img192 = new Image();
+        img192.onload = () => ctx192.drawImage(img192, 0, 0);
+        img192.src = icon192;
+        
+        document.getElementById('canvas512').width = 512;
+        document.getElementById('canvas512').height = 512;
+        const ctx512 = document.getElementById('canvas512').getContext('2d');
+        const img512 = new Image();
+        img512.onload = () => ctx512.drawImage(img512, 0, 0);
+        img512.src = icon512;
+        
+        console.log('Icons created successfully!');
+        console.log('Icon 192x192:', icon192.substring(0, 50) + '...');
+        console.log('Icon 512x512:', icon512.substring(0, 50) + '...');
+    </script>
+</body>
+</html>
