@@ -1,0 +1,41 @@
+
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="description" content="Community Service Project - Animals and Species Conservation in Nandanoor Village, Chittoor District, Andhra Pradesh" />
+      <meta name="theme-color" content="#15803d" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+      <meta name="apple-mobile-web-app-title" content="CSP - Grami Pashu" />
+      
+      <title>Community Service Project - Grami Pashu Sahayak</title>
+      
+      <!-- PWA Manifest -->
+      <link rel="manifest" href="/manifest.json" />
+      
+      <!-- App Icons -->
+      <link rel="icon" type="image/png" sizes="192x192" href="/icon-192x192.png" />
+      <link rel="icon" type="image/png" sizes="512x512" href="/icon-512x512.png" />
+      <link rel="apple-touch-icon" href="/icon-192x192.png" />
+      
+    </head>
+
+    <body>
+      <div id="root"></div>
+      <script type="module" src="/src/main.tsx"></script>
+      
+      <!-- PWA Service Worker Registration -->
+      <script>
+        if ('serviceWorker' in navigator) {
+          window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/sw.js').catch(err => {
+              console.log('Service Worker registration failed:', err);
+            });
+          });
+        }
+      </script>
+    </body>
+  </html>
+  

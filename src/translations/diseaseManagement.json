@@ -1,0 +1,211 @@
+{
+  "en": {
+    "title": "Disease Management",
+    "subtitle": "Prevention and Treatment of Common Animal Diseases",
+    "diseases": [
+      {
+        "animal": "Cow",
+        "conditions": [
+          {
+            "name": "Foot and Mouth Disease (FMD)",
+            "symptoms": "Blisters on feet and mouth, fever, lameness, reduced milk production",
+            "prevention": "Annual vaccination, quarantine infected animals, maintain hygiene",
+            "treatment": "Isolate animal, provide soft feed, apply antiseptic to blisters, consult veterinarian",
+            "emergency": "Contact veterinarian immediately"
+          },
+          {
+            "name": "Mastitis",
+            "symptoms": "Swollen udder, painful, reduced milk, fever, blood in milk",
+            "prevention": "Proper milking hygiene, clean environment, regular health check",
+            "treatment": "Antibiotic treatment, milk out regularly, warm compress, veterinary care",
+            "emergency": "Seek veterinary help within 24 hours"
+          },
+          {
+            "name": "Bloat",
+            "symptoms": "Swollen left side, difficulty breathing, restlessness, drooling",
+            "prevention": "Avoid sudden diet changes, provide dry feed before grazing, avoid legumes",
+            "treatment": "Massage abdomen, give oil, walk the animal, emergency veterinary care",
+            "emergency": "Contact veterinarian urgently"
+          }
+        ]
+      },
+      {
+        "animal": "Poultry (Hen, Duck, Chicken)",
+        "conditions": [
+          {
+            "name": "Ranikhet Disease",
+            "symptoms": "Twisted neck, paralysis, green diarrhea, sudden death",
+            "prevention": "Annual vaccination, biosecurity measures, quarantine new birds",
+            "treatment": "No cure, prevention through vaccination is key, isolate infected birds",
+            "emergency": "Cull infected birds, contact veterinarian"
+          },
+          {
+            "name": "Coccidiosis",
+            "symptoms": "Bloody diarrhea, weight loss, ruffled feathers, reduced egg production",
+            "prevention": "Clean housing, proper drainage, medicated feed, avoid overcrowding",
+            "treatment": "Medicated feed/water, improve hygiene, provide electrolytes",
+            "emergency": "Treat immediately to prevent spread"
+          },
+          {
+            "name": "Fowl Pox",
+            "symptoms": "Scabs on comb and wattles, respiratory signs, reduced production",
+            "prevention": "Vaccination, control mosquitoes, maintain hygiene",
+            "treatment": "Isolate birds, apply antiseptic, supportive care, vaccination",
+            "emergency": "Isolate and vaccinate remaining birds"
+          }
+        ]
+      },
+      {
+        "animal": "Fish",
+        "conditions": [
+          {
+            "name": "Gill Rot",
+            "symptoms": "Damaged gills, gasping at surface, lethargy, death",
+            "prevention": "Maintain water quality, proper aeration, regular water testing",
+            "treatment": "Improve water quality, increase aeration, use lime treatment",
+            "emergency": "Check water parameters immediately"
+          },
+          {
+            "name": "Fin Rot",
+            "symptoms": "Torn fins, discoloration, lethargy, secondary infections",
+            "prevention": "Maintain water quality, avoid overcrowding, clean environment",
+            "treatment": "Improve water quality, salt treatment, remove affected fish",
+            "emergency": "Isolate infected fish"
+          },
+          {
+            "name": "Parasitic Infection",
+            "symptoms": "Excessive mucus, scratching, weight loss, poor growth",
+            "prevention": "Regular water testing, quarantine new fish, maintain hygiene",
+            "treatment": "Salt bath, lime treatment, improve water quality",
+            "emergency": "Treat immediately to prevent spread"
+          }
+        ]
+      }
+    ],
+    "veterinaryContacts": {
+      "title": "Emergency Veterinary Contacts",
+      "contacts": [
+        {
+          "name": "District Veterinary Hospital, Chittoor",
+          "phone": "08572-228456",
+          "address": "Chittoor District, Andhra Pradesh"
+        },
+        {
+          "name": "Veterinary Polyclinic, Chittoor",
+          "phone": "08572-223789",
+          "address": "Chittoor City, Andhra Pradesh"
+        },
+        {
+          "name": "State Veterinary Department",
+          "phone": "040-23393939",
+          "address": "Hyderabad, Andhra Pradesh"
+        }
+      ]
+    }
+  },
+
+  "te": {
+    "title": "వ్యాధి నిర్వహణ",
+    "subtitle": "సాధారణ జంతువుల వ్యాధుల నిరోధం మరియు చికిత్స",
+    "diseases": [
+      {
+        "animal": "ఆవు",
+        "conditions": [
+          {
+            "name": "పాదం మరియు నోటి వ్యాధి (FMD)",
+            "symptoms": "పాదాలు మరియు నోటిపై గిడ్డలు, జ్వరం, కుంటపన, పాలు ఉత్పత్తి తగ్గుదల",
+            "prevention": "సంవత్సరానికి ఒకసారి టీకా, సంక్రమిత జంతువులను వేరుచేయండి, పరిశుద్ధత నిర్వహించండి",
+            "treatment": "జంతువును వేరుచేయండి, మృదువైన ఆహారం ఇవ్వండి, గిడ్డలకు జీవనాశక ఔషధం వేయండి, పశువైద్యుడిని సంప్రదించండి",
+            "emergency": "వెంటనే పశువైద్యుడిని సంప్రదించండి"
+          },
+          {
+            "name": "మాస్టిటిస్",
+            "symptoms": "ఉబ్బిన చనుబాటు, నొప్పి, పాలు తగ్గుదల, జ్వరం, పాలులో రక్తం",
+            "prevention": "సరైన పాలు పోయడం పరిశుద్ధత, శుద్ధ వాతావరణం, సాధారణ ఆరోగ్య పరీక్ష",
+            "treatment": "ప్రతిజీవక చికిత్స, సాధారణంగా పాలు పోయండి, వెచ్చని సంపీడనం, పశువైద్య సంరక్షణ",
+            "emergency": "24 గంటలలో పశువైద్య సహాయం కోసం చేరండి"
+          },
+          {
+            "name": "ఫుంగ్",
+            "symptoms": "ఎడమ వైపు ఉబ్బుదల, శ్వాస తీసుకోవడం కష్టం, చంచలత, లాలాజలం",
+            "prevention": "ఆకస్మిక ఆహార మార్పులను నివారించండి, గడ్డిపై వెళ్లడానికి ముందు ఎండిన ఆహారం ఇవ్వండి, పల్సులను నివారించండి",
+            "treatment": "కడుపు మసాజ్ చేయండి, నూనె ఇవ్వండి, జంతువును నడిపించండి, అత్యవసర పశువైద్య సంరక్షణ",
+            "emergency": "అత్యవసరంగా పశువైద్యుడిని సంప్రదించండి"
+          }
+        ]
+      },
+      {
+        "animal": "పిల్లులు (కోళ్ల, బాతు, కోడిపిల్లు)",
+        "conditions": [
+          {
+            "name": "రానిఖేత్ వ్యాధి",
+            "symptoms": "మెలితిరిగిన మెడ, పక్షవాతం, ఆకుపచ్చ విసర్జనం, ఆకస్మిక మరణం",
+            "prevention": "సంవత్సరానికి ఒకసారి టీకా, జీవ సంరక్షణ చర్యలు, కొత్త పిల్లులను వేరుచేయండి",
+            "treatment": "నిరాకరణ, టీకా ద్వారా నిరోధం ముఖ్యం, సంక్రమిత పిల్లులను వేరుచేయండి",
+            "emergency": "సంక్రమిత పిల్లులను నిర్ణయం చేయండి, పశువైద్యుడిని సంప్రదించండి"
+          },
+          {
+            "name": "కోక్సిడియోసిస్",
+            "symptoms": "రక్తపూర్ణ విసర్జనం, బరువు తగ్గుదల, చిందిన ఈకలు, గుడ్డ ఉత్పత్తి తగ్గుదల",
+            "prevention": "శుద్ధ గృహాలు, సరైన ఎడారి నిర్మాణం, ఔషధ ఆహారం, ఓవర్‌క్రౌడింగ్ నివారించండి",
+            "treatment": "ఔషధ ఆహారం/నీరు, పరిశుద్ధత మెరుగుపరచండి, ఎలక్ట్రోలైట్‌లు ఇవ్వండి",
+            "emergency": "వ్యాపనం నిరోధించడానికి వెంటనే చికిత్స చేయండి"
+          },
+          {
+            "name": "ఫౌల్ పాక్స్",
+            "symptoms": "కంకం మరియు వాటిల్‌పై పీఠాలు, శ్వాసకోశ సంకేతాలు, ఉత్పత్తి తగ్గుదల",
+            "prevention": "టీకా, దోమలను నియంత్రించండి, పరిశుద్ధత నిర్వహించండి",
+            "treatment": "పిల్లులను వేరుచేయండి, జీవనాశక ఔషధం వేయండి, సహాయక సంరక్షణ, టీకా",
+            "emergency": "మిగిలిన పిల్లులను వేరుచేయండి మరియు టీకా వేయండి"
+          }
+        ]
+      },
+      {
+        "animal": "చేపలు",
+        "conditions": [
+          {
+            "name": "గిల్ చెడిపోవడం",
+            "symptoms": "దెబ్బ తిన్న గిల్‌లు, ఉపరితలం వద్ద గ్యాపింగ్, నిస్సత్తువ, మరణం",
+            "prevention": "నీటి నాణ్యతను నిర్వహించండి, సరైన ఆక్సిజన్, సాధారణ నీటి పరీక్ష",
+            "treatment": "నీటి నాణ్యతను మెరుగుపరచండి, ఆక్సిజన్ పెంచండి, సున్నం చికిత్స ఉపయోగించండి",
+            "emergency": "వెంటనే నీటి పారామితులను తనిఖీ చేయండి"
+          },
+          {
+            "name": "ఫిన్ చెడిపోవడం",
+            "symptoms": "చిరిగిన ఈకలు, రంగు మార్పు, నిస్సత్తువ, ద్వితీయ సంక్రమణలు",
+            "prevention": "నీటి నాణ్యతను నిర్వహించండి, ఓవర్‌క్రౌడింగ్ నివారించండి, శుద్ధ వాతావరణం",
+            "treatment": "నీటి నాణ్యతను మెరుగుపరచండి, ఉప్పు చికిత్స, ప్రభావితమైన చేపలను తొలగించండి",
+            "emergency": "సంక్రమిత చేపలను వేరుచేయండి"
+          },
+          {
+            "name": "పరాన్నజీవి సంక్రమణ",
+            "symptoms": "అధిక శ్లేష్మం, గీతలు, బరువు తగ్గుదల, పెరుగుదల తక్కువ",
+            "prevention": "సాధారణ నీటి పరీక్ష, కొత్త చేపలను వేరుచేయండి, పరిశుద్ధత నిర్వహించండి",
+            "treatment": "ఉప్పు స్నానం, సున్నం చికిత్స, నీటి నాణ్యతను మెరుగుపరచండి",
+            "emergency": "వ్యాపనం నిరోధించడానికి వెంటనే చికిత్స చేయండి"
+          }
+        ]
+      }
+    ],
+    "veterinaryContacts": {
+      "title": "అత్యవసర పశువైద్య సంప్రదాయాలు",
+      "contacts": [
+        {
+          "name": "జిల్లా పశువైద్య ఆసుపత్రి, చిత్తూర్",
+          "phone": "08572-228456",
+          "address": "చిత్తూర్ జిల్లా, ఆంధ్ర ప్రదేశ్"
+        },
+        {
+          "name": "పశువైద్య పాలిక్లినిక్, చిత్తూర్",
+          "phone": "08572-223789",
+          "address": "చిత్తూర్ నగరం, ఆంధ్ర ప్రదేశ్"
+        },
+        {
+          "name": "రాష్ట్ర పశువైద్య విభాగం",
+          "phone": "040-23393939",
+          "address": "హైదరాబాద్, ఆంధ్ర ప్రదేశ్"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "en": {
+    "header": "Resource Hub",
+    "subtitle": "Comprehensive guides and resources for animal care and community support",
+    "quickLinks": "Quick Links - Government & NGO Resources",
+    "quickLinksDesc": "Direct access to important government departments and NGO websites",
+    
+    "resources": {
+      "animalCare": {
+        "title": "Animal Care Guides",
+        "description": "Comprehensive guides for caring for cows, poultry, fish, and other animals in dry, hot climate"
+      },
+      "governmentSchemes": {
+        "title": "Government Schemes & Subsidies",
+        "description": "Information about Andhra Pradesh government schemes, subsidies, and financial assistance"
+      },
+      "diseaseManagement": {
+        "title": "Disease Management",
+        "description": "Prevention and treatment of common animal diseases, health tips, and veterinary guidance"
+      },
+      "feedingNutrition": {
+        "title": "Feeding & Nutrition",
+        "description": "Cost-effective feeding strategies, seasonal feed availability, and nutritional requirements"
+      },
+      "shelterInfrastructure": {
+        "title": "Shelter & Infrastructure",
+        "description": "Climate-appropriate shelter design, construction tips, and heat management solutions"
+      },
+      "trainingPrograms": {
+        "title": "Training & Skill Development",
+        "description": "Government training programs, online courses, workshops, and certification opportunities"
+      },
+      "ngoResources": {
+        "title": "NGO & Organization Resources",
+        "description": "Connect with local NGOs, national organizations, veterinary services, and training centers"
+      }
+    },
+
+    "quickLinksContent": {
+      "chittoor": {
+        "title": "Chittoor District",
+        "description": "Official Chittoor District government website with local services and information"
+      },
+      "nabardAP": {
+        "title": "NABARD AP",
+        "description": "National Bank for Agriculture and Rural Development - Andhra Pradesh branch for agricultural loans"
+      },
+      "dahd": {
+        "title": "Department of Animal Husbandry",
+        "description": "Official government department for animal husbandry schemes and veterinary services"
+      },
+      "icar": {
+        "title": "ICAR - Indian Council of Agricultural Research",
+        "description": "National research organization for agricultural and animal husbandry innovations"
+      },
+      "cifri": {
+        "title": "CIFRI - Central Institute of Freshwater Aquaculture",
+        "description": "Government institute for fish farming and aquaculture research and training"
+      },
+      "nlm": {
+        "title": "National Livestock Mission",
+        "description": "Government initiative for livestock development and farmer support programs"
+      }
+    },
+
+    "buttons": {
+      "viewPdf": "View PDF",
+      "downloadPdf": "Download PDF",
+      "viewPresentation": "View Presentation",
+      "downloadPpt": "Download PPT",
+      "viewGuide": "View Guide",
+      "learnMore": "Learn More"
+    }
+  },
+
+  "te": {
+    "header": "వనరుల కేంద్రం",
+    "subtitle": "జంతువుల సంరక్షణ మరియు సమాజ సহాయతకు సంబంధించిన సమగ్ర గైడ్‌లు మరియు వనరులు",
+    "quickLinks": "శీఘ్ర లింకులు - ప్రభుత్వ మరియు NGO వనరులు",
+    "quickLinksDesc": "ముఖ్యమైన ప్రభుత్వ విభాగాలు మరియు NGO వెబ్‌సైట్‌లకు ప్రత్యక్ష ప్రాప్తి",
+
+    "resources": {
+      "animalCare": {
+        "title": "జంతువుల సంరక్షణ గైడ్‌లు",
+        "description": "ఎండ మరియు వేడి వాతావరణంలో ఆవులు, పిల్లులు, చేపలు మరియు ఇతర జంతువుల సంరక్షణ కోసం సమగ్ర గైడ్‌లు"
+      },
+      "governmentSchemes": {
+        "title": "ప్రభుత్వ పథకాలు మరియు సబ్సిడీలు",
+        "description": "ఆంధ్ర ప్రదేశ్ ప్రభుత్వ పథకాలు, సబ్సిడీలు మరియు ఆర్థిక సహాయ గురించిన సమాచారం"
+      },
+      "diseaseManagement": {
+        "title": "వ్యాధి నిర్వహణ",
+        "description": "సాధారణ జంతువుల వ్యాధుల నిరోధం మరియు చికిత్స, ఆరోగ్య చిట్కాలు మరియు పశువైద్య మార్గదర్శకత"
+      },
+      "feedingNutrition": {
+        "title": "ఆహారం మరియు పోషణ",
+        "description": "సుసంగత ఆహార వ్యూహాలు, నైపుణ్య ఆహారం లభ్యత మరియు పోషక అవసరాలు"
+      },
+      "shelterInfrastructure": {
+        "title": "ఆశ్రయం మరియు అవస్థాపన",
+        "description": "వాతావరణానికి తగిన ఆశ్రయ రూపకల్పన, నిర్మాణ చిట్కాలు మరియు ఉష్ణ నిర్వహణ పరిష్కారాలు"
+      },
+      "trainingPrograms": {
+        "title": "శిక్షణ మరియు నైపుణ్య అభివృద్ధి",
+        "description": "ప్రభుత్వ శిక్షణ కార్యక్రమాలు, ఆన్‌లైన్ కోర్సులు, కార్యశాలలు మరియు సర్టిఫికేషన్ అవకాశాలు"
+      },
+      "ngoResources": {
+        "title": "NGO మరియు సంస్థ వనరులు",
+        "description": "స్థానిక NGO, జాతీయ సంస్థలు, పశువైద్య సేవలు మరియు శిక్షణ కేంద్రాలతో సంযోగం"
+      }
+    },
+
+    "quickLinksContent": {
+      "chittoor": {
+        "title": "చిత్తూర్ జిల్లా",
+        "description": "చిత్తూర్ జిల్లా ప్రభుత్వ అధికారిక వెబ్‌సైట్ స్థానిక సేవలు మరియు సమాచారం కోసం"
+      },
+      "nabardAP": {
+        "title": "నాబార్డ్ AP",
+        "description": "జాతీయ వ్యవసాయ మరియు గ్రామీణ అభివృద్ధి బ్యాంక్ - వ్యవసాయ రుణాల కోసం ఆంధ్ర ప్రదేశ్ శాఖ"
+      },
+      "dahd": {
+        "title": "జంతువుల సంరక్షణ విభాగం",
+        "description": "జంతువుల సంరక్షణ పథకాలు మరియు పశువైద్య సేవల కోసం అధికారిక ప్రభుత్వ విభాగం"
+      },
+      "icar": {
+        "title": "ICAR - భారతీయ వ్యవసాయ పరిశోధన కౌన్సిల్",
+        "description": "వ్యవసాయ మరియు జంతువుల సంరక్షణ ఆవిష్కరణల కోసం జాతీయ పరిశోధన సంస్థ"
+      },
+      "cifri": {
+        "title": "CIFRI - కేంద్ర తాజా జల ఆక్వాకల్చర్ సంస్థ",
+        "description": "చేపల పెంపకం మరియు ఆక్వాకల్చర్ పరిశోధన మరియు శిక్షణ కోసం ప్రభుత్వ సంస్థ"
+      },
+      "nlm": {
+        "title": "జాతీయ పశుసంపద మిషన్",
+        "description": "పశుసంపద అభివృద్ధి మరియు రైతు సహాయ కార్యక్రమాల కోసం ప్రభుత్వ ఉద్యమం"
+      }
+    },
+
+    "buttons": {
+      "viewPdf": "PDF చూడండి",
+      "downloadPdf": "PDF డౌన్‌లోడ్ చేయండి",
+      "viewPresentation": "ప్రెజెంటేషన్ చూడండి",
+      "downloadPpt": "PPT డౌన్‌లోడ్ చేయండి",
+      "viewGuide": "గైడ్ చూడండి",
+      "learnMore": "మరింత తెలుసుకోండి"
+    }
+  }
+}

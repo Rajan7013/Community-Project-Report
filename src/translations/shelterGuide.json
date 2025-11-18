@@ -1,0 +1,205 @@
+{
+  "en": {
+    "title": "Shelter & Infrastructure",
+    "subtitle": "Climate-Appropriate Shelter Design and Construction",
+    "sections": [
+      {
+        "animal": "Cow",
+        "design": {
+          "type": "Open-sided shed with proper ventilation",
+          "height": "10-12 feet for good air circulation",
+          "roofing": "White or light-colored material to reflect heat",
+          "flooring": "Sloped concrete or brick for drainage",
+          "area": "Minimum 40-50 sq ft per animal"
+        },
+        "heatManagement": [
+          "White/light colored roof to reflect sunlight",
+          "Proper ventilation on all sides",
+          "Shade cloth or trees for additional cooling",
+          "Water sprinklers for hot months",
+          "Mud wallows for heat relief"
+        ],
+        "construction": {
+          "materials": "Bamboo/wood poles, concrete, bricks, tiles",
+          "cost": "Rs. 15,000-25,000 per animal (basic shed)",
+          "duration": "15-20 days for 5-10 animals",
+          "maintenance": "Regular cleaning, repair roof during monsoon"
+        }
+      },
+      {
+        "animal": "Poultry",
+        "design": {
+          "type": "Well-ventilated shed with nesting boxes",
+          "height": "6-8 feet",
+          "roofing": "Asbestos or tile with ventilation",
+          "flooring": "Wooden slats or concrete",
+          "area": "4-5 sq ft per bird"
+        },
+        "heatManagement": [
+          "Adequate ventilation on sides",
+          "Shade cloth during summer",
+          "Sprinklers for cooling",
+          "Perches for roosting",
+          "Dust bath area"
+        ],
+        "construction": {
+          "materials": "Bamboo, wood, wire mesh, tiles",
+          "cost": "Rs. 8,000-12,000 for 100 birds",
+          "duration": "10-15 days",
+          "maintenance": "Weekly cleaning, monthly disinfection"
+        }
+      },
+      {
+        "animal": "Fish Pond",
+        "design": {
+          "type": "Earthen or lined pond",
+          "depth": "1-1.5 meters",
+          "area": "0.25-1 acre",
+          "slope": "1:2 (gentle slope for safety)",
+          "inlet/outlet": "Separate inlet and outlet for water management"
+        },
+        "waterManagement": [
+          "Proper inlet for fresh water supply",
+          "Outlet for water drainage",
+          "Overflow system for monsoon",
+          "Aeration system for oxygen",
+          "Screens to prevent predators"
+        ],
+        "construction": {
+          "materials": "Soil, lime, sand, clay",
+          "cost": "Rs. 50,000-100,000 per acre",
+          "duration": "30-45 days",
+          "maintenance": "Annual cleaning, repair breaches"
+        }
+      }
+    ],
+    "costEffectiveConstruction": {
+      "title": "Cost-Effective Construction Tips",
+      "tips": [
+        "Use local materials (bamboo, wood, stone)",
+        "Utilize mango trees for shade",
+        "Build in phases if budget limited",
+        "Use community labor for construction",
+        "Maintain proper drainage to prevent disease",
+        "Plan for expansion in future"
+      ]
+    },
+    "ventilationAndDrainage": {
+      "title": "Ventilation and Drainage",
+      "ventilation": [
+        "Minimum 2 sides open for air flow",
+        "Cross-ventilation to prevent heat stress",
+        "Avoid direct wind in winter",
+        "Use curtains for temperature control"
+      ],
+      "drainage": [
+        "Sloped floor for water drainage",
+        "Separate drainage for wastewater",
+        "Prevent water stagnation",
+        "Regular cleaning of drainage"
+      ]
+    }
+  },
+
+  "te": {
+    "title": "ఆశ్రయం మరియు అవస్థాపన",
+    "subtitle": "వాతావరణానికి తగిన ఆశ్రయ రూపకల్పన మరియు నిర్మాణం",
+    "sections": [
+      {
+        "animal": "ఆవు",
+        "design": {
+          "type": "సరైన వాతాయనంతో తెరిచిన ఎడారి",
+          "height": "మంచి గాలి ప్రసరణ కోసం 10-12 అడుగులు",
+          "roofing": "ఉష్ణతను ప్రతిబింబించడానికి తెల్లటి లేదా లేత రంగు పదార్థం",
+          "flooring": "ఎడారి కోసం వాలుగా ఉన్న కాంక్రీట్ లేదా ఇటుకలు",
+          "area": "జంతువుకు కనీసం 40-50 చదరపు అడుగులు"
+        },
+        "heatManagement": [
+          "సూర్యకాంతిని ప్రతిబింబించడానికి తెల్లటి/లేత రంగు పైకప్పు",
+          "అన్ని వైపులా సరైన వాతాయనం",
+          "అదనపు శీతలీకరణ కోసం నీడ గుడ్డ లేదా చెట్టులు",
+          "వేడి నెలలకు నీటి స్ప్రింకిలర్‌లు",
+          "ఉష్ణ ఉపశమనం కోసం బురద గుంటలు"
+        ],
+        "construction": {
+          "materials": "గుబ్బలు/చెక్క స్తంభాలు, కాంక్రీట్, ఇటుకలు, టైల్‌లు",
+          "cost": "జంతువుకు రూ. 15,000-25,000 (ప్రాథమిక ఎడారి)",
+          "duration": "5-10 జంతువులకు 15-20 రోజులు",
+          "maintenance": "సాధారణ శుద్ధీకరణ, వర్షాకాలంలో పైకప్పు మరమ్మత్"
+        }
+      },
+      {
+        "animal": "పిల్లులు",
+        "design": {
+          "type": "గూడు పెట్టెలతో సరిపోయే గుండ్రాలు",
+          "height": "6-8 అడుగులు",
+          "roofing": "ఆస్బెస్టాస్ లేదా వాతాయనంతో టైల్",
+          "flooring": "చెక్క స్లాట్‌లు లేదా కాంక్రీట్",
+          "area": "పిల్లుకు 4-5 చదరపు అడుగులు"
+        },
+        "heatManagement": [
+          "వైపులా సరిపోయే వాతాయనం",
+          "వేసవిలో నీడ గుడ్డ",
+          "శీతలీకరణ కోసం స్ప్రింకిలర్‌లు",
+          "నిద్రకోసం పెర్చెస్",
+          "ధూళి స్నానం ప్రాంతం"
+        ],
+        "construction": {
+          "materials": "గుబ్బలు, చెక్క, వైర్ మెష్, టైల్‌లు",
+          "cost": "100 పిల్లులకు రూ. 8,000-12,000",
+          "duration": "10-15 రోజులు",
+          "maintenance": "వారానికి ఒకసారి శుద్ధీకరణ, నెలకు ఒకసారి సంక్రమణనిరోధక చికిత్స"
+        }
+      },
+      {
+        "animal": "చేపల చెరువు",
+        "design": {
+          "type": "మట్టి లేదా లైన్ చేసిన చెరువు",
+          "depth": "1-1.5 మీటర్లు",
+          "area": "0.25-1 ఎకరలు",
+          "slope": "1:2 (భద్రత కోసం సున్నితమైన వాలు)",
+          "inlet/outlet": "నీటి నిర్వహణ కోసం ప్రవేశ మరియు నిష్క్రమణ"
+        },
+        "waterManagement": [
+          "తాజా నీటి సరఫరా కోసం సరైన ప్రవేశ",
+          "నీటి ఎడారి కోసం నిష్క్రమణ",
+          "వర్షాకాలం కోసం ఓవర్‌ఫ్లో సిస్టమ్",
+          "ఆక్సిజన్ కోసం ఆక్సిజన్ సిస్టమ్",
+          "చిట్టెలను నిరోధించడానికి స్క్రీన్‌లు"
+        ],
+        "construction": {
+          "materials": "మట్టి, సున్నం, ఇసుక, మట్టి",
+          "cost": "ఎకరానికి రూ. 50,000-100,000",
+          "duration": "30-45 రోజులు",
+          "maintenance": "వార్షిక శుద్ధీకరణ, విరిగిన చోటులను మరమ్మత్"
+        }
+      }
+    ],
+    "costEffectiveConstruction": {
+      "title": "సుసంగత నిర్మాణ చిట్కాలు",
+      "tips": [
+        "స్థానిక పదార్థాలను ఉపయోగించండి (గుబ్బలు, చెక్క, రాయి)",
+        "నీడ కోసం మామిడి చెట్టులను ఉపయోగించండి",
+        "బడ్జెట్ పరిమితమైతే దశలలో నిర్మించండి",
+        "నిర్మాణం కోసం సమాజ శ్రమను ఉపయోగించండి",
+        "వ్యాధిని నిరోధించడానికి సరైన ఎడారిని నిర్వహించండి",
+        "భవిష్యత్ విస్తరణ కోసం ప్రణాళిక చేయండి"
+      ]
+    },
+    "ventilationAndDrainage": {
+      "title": "వాతాయనం మరియు ఎడారి",
+      "ventilation": [
+        "గాలి ప్రవాహం కోసం కనీసం 2 వైపులు తెరిచి ఉండాలి",
+        "ఉష్ణ ఒత్తిడిని నిరోధించడానికి క్రాస్-వాతాయనం",
+        "శీతకాలంలో నేరుగా గాలిని నివారించండి",
+        "ఉష్ణోగ్రత నియంత్రణ కోసం కర్టెన్‌లను ఉపయోగించండి"
+      ],
+      "drainage": [
+        "నీటి ఎడారి కోసం వాలుగా ఉన్న నేల",
+        "మురుగు నీటి కోసం ప్రత్యేక ఎడారి",
+        "నీరు నిలిచిపోకుండా చేయండి",
+        "ఎడారి యొక్క సాధారణ శుద్ధీకరణ"
+      ]
+    }
+  }
+}

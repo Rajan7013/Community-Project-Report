@@ -1,0 +1,255 @@
+{
+  "en": {
+    "title": "Training & Skill Development",
+    "subtitle": "Government Programs, Online Courses, and Local Workshops",
+    "sections": [
+      {
+        "category": "Government Training Programs",
+        "programs": [
+          {
+            "name": "Dairy Farming Training",
+            "provider": "Department of Animal Husbandry, AP",
+            "duration": "3-6 months",
+            "topics": "Dairy farm management, milk production, animal health, marketing",
+            "eligibility": "Farmers with dairy animals, minimum 10th pass",
+            "cost": "Free/Subsidized",
+            "contact": "District Animal Husbandry Office, Chittoor"
+          },
+          {
+            "name": "Poultry Farming Training",
+            "provider": "Department of Animal Husbandry, AP",
+            "duration": "2-4 months",
+            "topics": "Poultry farm setup, disease management, feed formulation, egg production",
+            "eligibility": "Farmers, unemployed youth (18-45 years)",
+            "cost": "Free/Subsidized",
+            "contact": "District Animal Husbandry Office, Chittoor"
+          },
+          {
+            "name": "Fish Farming Training",
+            "provider": "Department of Fisheries, AP",
+            "duration": "3-6 months",
+            "topics": "Pond management, fish breeding, feed preparation, disease control",
+            "eligibility": "Farmers with suitable land and water source",
+            "cost": "Free/Subsidized",
+            "contact": "District Fisheries Office, Chittoor"
+          }
+        ]
+      },
+      {
+        "category": "Online Courses",
+        "programs": [
+          {
+            "name": "Animal Husbandry Basics",
+            "provider": "ICAR (Indian Council of Agricultural Research)",
+            "duration": "4-8 weeks",
+            "topics": "Animal nutrition, breeding, health management, farm economics",
+            "platform": "ICAR e-learning portal",
+            "cost": "Free",
+            "website": "https://www.icar.org.in/"
+          },
+          {
+            "name": "Dairy Farming Online",
+            "provider": "NDRI (National Dairy Research Institute)",
+            "duration": "6-12 weeks",
+            "topics": "Dairy production, milk quality, animal welfare, farm management",
+            "platform": "NDRI Online Learning",
+            "cost": "Free/Paid",
+            "website": "https://www.ndri.res.in/"
+          },
+          {
+            "name": "Fish Farming Essentials",
+            "provider": "CIFRI (Central Institute of Freshwater Aquaculture)",
+            "duration": "4-8 weeks",
+            "topics": "Aquaculture basics, fish health, water management, marketing",
+            "platform": "CIFRI e-courses",
+            "cost": "Free",
+            "website": "https://www.cifri.res.in/"
+          }
+        ]
+      },
+      {
+        "category": "Local Workshops & Demonstrations",
+        "programs": [
+          {
+            "name": "Krishi Vigyan Kendra (KVK) Workshops",
+            "provider": "ICAR - KVK, Chittoor",
+            "frequency": "Monthly/Quarterly",
+            "topics": "Seasonal farming practices, new technologies, problem solving",
+            "location": "Chittoor District",
+            "cost": "Free/Nominal",
+            "contact": "KVK Chittoor: 08572-XXXXXX"
+          },
+          {
+            "name": "NGO Training Programs",
+            "provider": "Local NGOs in Chittoor",
+            "frequency": "Regular",
+            "topics": "Animal care, sustainable farming, women empowerment",
+            "location": "Nandanoor and nearby villages",
+            "cost": "Free/Subsidized",
+            "contact": "District NGO Coordination Office"
+          },
+          {
+            "name": "Farmer Producer Organization (FPO) Training",
+            "provider": "NABARD & District Agriculture Office",
+            "frequency": "As per requirement",
+            "topics": "Group farming, collective marketing, financial management",
+            "location": "District level",
+            "cost": "Subsidized",
+            "contact": "NABARD AP Regional Office"
+          }
+        ]
+      }
+    ],
+    "skillsDeveloped": {
+      "title": "Essential Skills to Develop",
+      "skills": [
+        "Animal health and disease management",
+        "Feed formulation and nutrition",
+        "Farm management and record keeping",
+        "Marketing and value addition",
+        "Financial planning and budgeting",
+        "Quality control and standards",
+        "Modern farming techniques",
+        "Cooperative management"
+      ]
+    },
+    "registrationProcess": {
+      "title": "How to Register",
+      "steps": [
+        "Contact District Animal Husbandry/Fisheries Office",
+        "Provide basic information (name, age, education, experience)",
+        "Submit required documents (ID, land ownership proof)",
+        "Attend orientation session",
+        "Complete training program",
+        "Receive certificate upon completion"
+      ]
+    }
+  },
+
+  "te": {
+    "title": "శిక్షణ మరియు నైపుణ్య అభివృద్ధి",
+    "subtitle": "ప్రభుత్వ కార్యక్రమాలు, ఆన్‌లైన్ కోర్సులు మరియు స్థానిక కార్యశాలలు",
+    "sections": [
+      {
+        "category": "ప్రభుత్వ శిక్షణ కార్యక్రమాలు",
+        "programs": [
+          {
+            "name": "పాల పెంపకం శిక్షణ",
+            "provider": "జంతువుల సంరక్షణ విభాగం, AP",
+            "duration": "3-6 నెలలు",
+            "topics": "పాల పెంపకం నిర్వహణ, పాలు ఉత్పత్తి, జంతువుల ఆరోగ్యం, విపణనం",
+            "eligibility": "పాల జంతువులు ఉన్న రైతులు, కనీసం 10వ తరగతి పాస్",
+            "cost": "ఉచిత/సబ్సిడీ",
+            "contact": "జిల్లా జంతువుల సంరక్షణ కార్యాలయం, చిత్తూర్"
+          },
+          {
+            "name": "పిల్లుల పెంపకం శిక్షణ",
+            "provider": "జంతువుల సంరక్షణ విభాగం, AP",
+            "duration": "2-4 నెలలు",
+            "topics": "పిల్లుల పెంపకం సెటప్, వ్యాధి నిర్వహణ, ఆహారం సూత్రీకరణ, గుడ్డ ఉత్పత్తి",
+            "eligibility": "రైతులు, నిరుద్యోగ యువకులు (18-45 సంవత్సరాలు)",
+            "cost": "ఉచిత/సబ్సిడీ",
+            "contact": "జిల్లా జంతువుల సంరక్షణ కార్యాలయం, చిత్తూర్"
+          },
+          {
+            "name": "చేపల పెంపకం శిక్షణ",
+            "provider": "చేపల పెంపకం విభాగం, AP",
+            "duration": "3-6 నెలలు",
+            "topics": "చెరువు నిర్వహణ, చేపల సంతానోత్పత్తి, ఆహారం తయారీ, వ్యాధి నియంత్రణ",
+            "eligibility": "తగిన భూమి మరియు నీటి వనరు ఉన్న రైతులు",
+            "cost": "ఉచిత/సబ్సిడీ",
+            "contact": "జిల్లా చేపల పెంపకం కార్యాలయం, చిత్తూర్"
+          }
+        ]
+      },
+      {
+        "category": "ఆన్‌లైన్ కోర్సులు",
+        "programs": [
+          {
+            "name": "జంతువుల సంరక్షణ ప్రాథమికాలు",
+            "provider": "ICAR (భారతీయ వ్యవసాయ పరిశోధన కౌన్సిల్)",
+            "duration": "4-8 వారాలు",
+            "topics": "జంతువుల పోషణ, సంతానోత్పత్తి, ఆరోగ్య నిర్వహణ, పెంపకం ఆర్థికశాస్త్రం",
+            "platform": "ICAR ఇ-లర్నింగ్ పోర్టల్",
+            "cost": "ఉచిత",
+            "website": "https://www.icar.org.in/"
+          },
+          {
+            "name": "పాల పెంపకం ఆన్‌లైన్",
+            "provider": "NDRI (జాతీయ పాల పరిశోధన సంస్థ)",
+            "duration": "6-12 వారాలు",
+            "topics": "పాల ఉత్పత్తి, పాలు నాణ్యత, జంతువుల సంరక్షణ, పెంపకం నిర్వహణ",
+            "platform": "NDRI ఆన్‌లైన్ లర్నింగ్",
+            "cost": "ఉచిత/చెల్లించిన",
+            "website": "https://www.ndri.res.in/"
+          },
+          {
+            "name": "చేపల పెంపకం ముఖ్యాంశాలు",
+            "provider": "CIFRI (కేంద్ర తాజా జల ఆక్వాకల్చర్ సంస్థ)",
+            "duration": "4-8 వారాలు",
+            "topics": "జలసంపద ప్రాథమికాలు, చేపల ఆరోగ్యం, నీటి నిర్వహణ, విపణనం",
+            "platform": "CIFRI ఇ-కోర్సులు",
+            "cost": "ఉచిత",
+            "website": "https://www.cifri.res.in/"
+          }
+        ]
+      },
+      {
+        "category": "స్థానిక కార్యశాలలు మరియు ప్రదర్శనలు",
+        "programs": [
+          {
+            "name": "కృషి విజ్ఞాన కేంద్రం (KVK) కార్యశాలలు",
+            "provider": "ICAR - KVK, చిత్తూర్",
+            "frequency": "నెలకు/త్రైమాసికానికి",
+            "topics": "నైపుణ్య వ్యవసాయ పద్ధతులు, కొత్త సాంకేతికతలు, సమస్య పరిష్కారం",
+            "location": "చిత్తూర్ జిల్లా",
+            "cost": "ఉచిత/నామమాత్రం",
+            "contact": "KVK చిత్తూర్: 08572-XXXXXX"
+          },
+          {
+            "name": "NGO శిక్షణ కార్యక్రమాలు",
+            "provider": "చిత్తూర్లో స్థానిక NGO",
+            "frequency": "సాధారణ",
+            "topics": "జంతువుల సంరక్షణ, సంపద సంరక్షణ వ్యవసాయం, మహిళా సशక్తీకరణ",
+            "location": "నందనూర్ మరియు సమీప గ్రామాలు",
+            "cost": "ఉచిత/సబ్సిడీ",
+            "contact": "జిల్లా NGO సమన్వయ కార్యాలయం"
+          },
+          {
+            "name": "రైతు ఉత్పత్తి సంస్థ (FPO) శిక్షణ",
+            "provider": "నాబార్డ్ & జిల్లా వ్యవసాయ కార్యాలయం",
+            "frequency": "అవసరం ప్రకారం",
+            "topics": "సమూహ వ్యవసాయం, సమిష్ట విపణనం, ఆర్థిక నిర్వహణ",
+            "location": "జిల్లా స్థాయి",
+            "cost": "సబ్సిడీ",
+            "contact": "నాబార్డ్ AP ప్రాంతీయ కార్యాలయం"
+          }
+        ]
+      }
+    ],
+    "skillsDeveloped": {
+      "title": "అభివృద్ధి చేయవలసిన ముఖ్య నైపుణ్యాలు",
+      "skills": [
+        "జంతువుల ఆరోగ్యం మరియు వ్యాధి నిర్వహణ",
+        "ఆహారం సూత్రీకరణ మరియు పోషణ",
+        "పెంపకం నిర్వహణ మరియు రికార్డ్ ఉంచడం",
+        "విపణనం మరియు విలువ సంযోజనం",
+        "ఆర్థిక ప్రణాళిక మరియు బাজెట్",
+        "నాణ్యత నియంత్రణ మరియు ప్రమాణాలు",
+        "ఆధునిక వ్యవసాయ పద్ధతులు",
+        "సహకార నిర్వహణ"
+      ]
+    },
+    "registrationProcess": {
+      "title": "నమోదు చేయడం ఎలా",
+      "steps": [
+        "జిల్లా జంతువుల సంరక్షణ/చేపల పెంపకం కార్యాలయానికి సంప్రదించండి",
+        "ప్రాథమిక సమాచారం ఇవ్వండి (పేరు, వయస్సు, విద్య, అనుభవం)",
+        "అవసరమైన పత్రాలు సమర్పించండి (ID, భూ యాజమాన్య ప్రూఫ్)",
+        "ఓరియంటేషన్ సెషన్‌కు హాజరు కండి",
+        "శిక్షణ కార్యక్రమాన్ని పూర్తి చేయండి",
+        "పూర్తి చేసిన తర్వాత సర్టిఫికేట్ పొందండి"
+      ]
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "en": {
+    "title": "Feeding & Nutrition",
+    "subtitle": "Cost-Effective Feeding Strategies and Nutritional Requirements",
+    "sections": [
+      {
+        "animal": "Cow",
+        "dailyRequirements": {
+          "fodder": "15-20 kg green fodder or 8-10 kg dry fodder",
+          "concentrate": "2-3 kg concentrate feed (based on milk production)",
+          "water": "40-50 liters per day",
+          "minerals": "Salt 40g, Phosphorus, Calcium supplements"
+        },
+        "seasonalStrategies": {
+          "summer": "Provide stored hay, silage, and water regularly. Include mineral supplements. Avoid heat stress.",
+          "monsoon": "Use quality fodder, prevent mold. Provide dry shelter. Increase mineral intake.",
+          "winter": "Provide nutritious fodder, increase concentrate. Maintain body condition."
+        },
+        "costEffectiveFeed": [
+          "Mango tree leaves (abundant in region) - 5 kg daily",
+          "Rice bran and straw - 3 kg daily",
+          "Groundnut cake - 1 kg daily",
+          "Local grass and legumes - 8 kg daily",
+          "Mineral mixture - 50g daily"
+        ],
+        "feedingTips": "Feed at fixed times. Provide water before and after feeding. Avoid sudden diet changes. Monitor body condition."
+      },
+      {
+        "animal": "Poultry (Hen, Duck, Chicken)",
+        "dailyRequirements": {
+          "feed": "100-120g per bird per day",
+          "protein": "16-18% for layers, 18-20% for broilers",
+          "water": "200-250 ml per bird per day",
+          "minerals": "Calcium for egg production"
+        },
+        "seasonalStrategies": {
+          "summer": "Provide cool water frequently. Include electrolytes. Reduce feed during peak heat.",
+          "monsoon": "Ensure dry feed storage. Prevent mold. Maintain hygiene.",
+          "winter": "Increase feed intake. Provide warm water. Maintain light duration."
+        },
+        "costEffectiveFeed": [
+          "Local grains (maize, sorghum) - 60g per bird",
+          "Rice bran - 20g per bird",
+          "Vegetable waste - 15g per bird",
+          "Groundnut cake - 15g per bird",
+          "Mineral mixture - 5g per bird"
+        ],
+        "feedingTips": "Use feeders to prevent waste. Feed early morning and evening. Provide fresh water daily. Store feed in dry place."
+      },
+      {
+        "animal": "Fish",
+        "dailyRequirements": {
+          "feed": "2-3% of body weight daily",
+          "protein": "30-35% for growth",
+          "feedingFrequency": "2 times daily"
+        },
+        "seasonalStrategies": {
+          "summer": "Feed more frequently. Maintain water quality. Monitor oxygen levels.",
+          "monsoon": "Reduce feeding during heavy rain. Maintain water quality.",
+          "winter": "Reduce feeding frequency. Monitor water temperature."
+        },
+        "costEffectiveFeed": [
+          "Pellet feed - 2% body weight",
+          "Rice bran - 0.5% body weight",
+          "Vegetable waste - 0.5% body weight",
+          "Groundnut cake - 0.5% body weight",
+          "Local insects and snails - natural feed"
+        ],
+        "feedingTips": "Feed at same time daily. Remove uneaten feed. Monitor fish behavior. Adjust based on appetite."
+      }
+    ],
+    "mangoTreeUtilization": {
+      "title": "Mango Tree Utilization (Abundant in Region)",
+      "uses": [
+        "Leaves: Nutritious fodder for cattle (5 kg daily)",
+        "Fallen leaves: Dry storage for dry season",
+        "Branches: Fodder for goats and sheep",
+        "Fruits: Supplement for animals (fallen fruits)",
+        "Seeds: Cake for cattle feed after oil extraction"
+      ]
+    },
+    "waterManagement": {
+      "title": "Water Management in Dry Climate",
+      "tips": [
+        "Provide water 3-4 times daily in summer",
+        "Use water storage tanks for dry season",
+        "Ensure clean water sources",
+        "Provide shade near water points",
+        "Monitor water quality regularly"
+      ]
+    }
+  },
+
+  "te": {
+    "title": "ఆహారం మరియు పోషణ",
+    "subtitle": "సుసంగత ఆహార వ్యూహాలు మరియు పోషక అవసరాలు",
+    "sections": [
+      {
+        "animal": "ఆవు",
+        "dailyRequirements": {
+          "fodder": "15-20 కిలోల ఆకుపచ్చ మేత లేదా 8-10 కిలోల ఎండిన మేత",
+          "concentrate": "2-3 కిలోల సంకేంద్రీకృత ఆహారం (పాలు ఉత్పత్తి ఆధారంగా)",
+          "water": "రోజుకు 40-50 లీటర్లు",
+          "minerals": "ఉప్పు 40g, ఫాస్ఫరస్, కాల్షియం సప్లిమెంట్‌లు"
+        },
+        "seasonalStrategies": {
+          "summer": "నిల్వ ఘాస, సిలేజ్ మరియు నీరు సాధారణంగా ఇవ్వండి. ఖనిజ సప్లిమెంట్‌లు చేర్చండి. ఉష్ణ ఒత్తిడిని నివారించండి.",
+          "monsoon": "నాణ్యమైన మేతను ఉపయోగించండి, అచ్చు నిరోధించండి. శుద్ధ ఆశ్రయం ఇవ్వండి. ఖనిజ సేవన పెంచండి.",
+          "winter": "పోషక మేతను ఇవ్వండి, సంకేంద్రీకృతం పెంచండి. శరీర స్థితిని నిర్వహించండి."
+        },
+        "costEffectiveFeed": [
+          "మామిడి చెట్టు ఆకులు (ప్రాంతంలో సమృద్ధం) - రోజుకు 5 కిలోలు",
+          "బియ్యం కొక్కుడు మరియు గడ్డి - రోజుకు 3 కిలోలు",
+          "వేరుశనగ కేక్ - రోజుకు 1 కిలో",
+          "స్థానిక గడ్డి మరియు పల్సులు - రోజుకు 8 కిలోలు",
+          "ఖనిజ మిశ్రణం - రోజుకు 50g"
+        ],
+        "feedingTips": "నిర్ణీత సమయాలలో ఆహారం ఇవ్వండి. ఆహారానికి ముందు మరియు తరువాత నీరు ఇవ్వండి. ఆకస్మిక ఆహార మార్పులను నివారించండి. శరీర స్థితిని పర్యవేక్షించండి."
+      },
+      {
+        "animal": "పిల్లులు (కోళ్ల, బాతు, కోడిపిల్లు)",
+        "dailyRequirements": {
+          "feed": "పిల్లుకు రోజుకు 100-120g",
+          "protein": "పిల్లులకు 16-18%, బ్రాయిలర్‌లకు 18-20%",
+          "water": "పిల్లుకు రోజుకు 200-250 ml",
+          "minerals": "గుడ్డ ఉత్పత్తికి కాల్షియం"
+        },
+        "seasonalStrategies": {
+          "summer": "చల్లని నీరు తరచుగా ఇవ్వండి. ఎలక్ట్రోలైట్‌లు చేర్చండి. గరిష్ట ఉష్ణతలో ఆహారం తగ్గించండి.",
+          "monsoon": "ఆహారం నిల్వ ఎండగా ఉంచండి. అచ్చు నిరోధించండి. పరిశుద్ధత నిర్వహించండి.",
+          "winter": "ఆహార సేవన పెంచండి. వెచ్చని నీరు ఇవ్వండి. కాంతి వ్యవధిని నిర్వహించండి."
+        },
+        "costEffectiveFeed": [
+          "స్థానిక ధాన్యాలు (మక్క, జోలరం) - పిల్లుకు 60g",
+          "బియ్యం కొక్కుడు - పిల్లుకు 20g",
+          "కూరగాయ వ్యర్థాలు - పిల్లుకు 15g",
+          "వేరుశనగ కేక్ - పిల్లుకు 15g",
+          "ఖనిజ మిశ్రణం - పిల్లుకు 5g"
+        ],
+        "feedingTips": "వ్యర్థం నిరోధించడానికి ఆహార పాత్రలను ఉపయోగించండి. ఉదయం మరియు సాయంత్రం ఆహారం ఇవ్వండి. ప్రతిరోజు తాజా నీరు ఇవ్వండి. ఆహారం ఎండిన స్థలంలో నిల్వ చేయండి."
+      },
+      {
+        "animal": "చేపలు",
+        "dailyRequirements": {
+          "feed": "రోజుకు శరీర బరువులో 2-3%",
+          "protein": "పెరుగుదలకు 30-35%",
+          "feedingFrequency": "రోజుకు 2 సార్లు"
+        },
+        "seasonalStrategies": {
+          "summer": "తరచుగా ఆహారం ఇవ్వండి. నీటి నాణ్యతను నిర్వహించండి. ఆక్సిజన్ స్థాయిలను పర్యవేక్షించండి.",
+          "monsoon": "భారీ వర్షం సమయంలో ఆహారం తగ్గించండి. నీటి నాణ్యతను నిర్వహించండి.",
+          "winter": "ఆహార ఫ్రీక్వెన్సీ తగ్గించండి. నీటి ఉష్ణోగ్రతను పర్యవేక్షించండి."
+        },
+        "costEffectiveFeed": [
+          "గుళిక ఆహారం - శరీర బరువులో 2%",
+          "బియ్యం కొక్కుడు - శరీర బరువులో 0.5%",
+          "కూరగాయ వ్యర్థాలు - శరీర బరువులో 0.5%",
+          "వేరుశనగ కేక్ - శరీర బరువులో 0.5%",
+          "స్థానిక కీటకాలు మరియు ఖోలు - సహజ ఆహారం"
+        ],
+        "feedingTips": "ప్రతిరోజు ఒకే సమయంలో ఆహారం ఇవ్వండి. తిన్న ఆహారం తొలగించండి. చేపల ప్రవర్తనను పర్యవేక్షించండి. ఆకలి ఆధారంగా సర్దుబాటు చేయండి."
+      }
+    ],
+    "mangoTreeUtilization": {
+      "title": "మామిడి చెట్టు ఉపయోగం (ప్రాంతంలో సమృద్ధం)",
+      "uses": [
+        "ఆకులు: పశువుల కోసం పోషక మేత (రోజుకు 5 కిలోలు)",
+        "పడిన ఆకులు: ఎండ కాలం కోసం ఎండిన నిల్వ",
+        "శాఖలు: మేక మరియు గొర్రెల కోసం మేత",
+        "ఫలాలు: జంతువుల కోసం సప్లిమెంట్ (పడిన ఫలాలు)",
+        "విత్తనాలు: నూనె సంగ్రహణ తరువాత పశువుల ఆహారం కోసం కేక్"
+      ]
+    },
+    "waterManagement": {
+      "title": "ఎండ వాతావరణంలో నీటి నిర్వహణ",
+      "tips": [
+        "వేసవిలో రోజుకు 3-4 సార్లు నీరు ఇవ్వండి",
+        "ఎండ కాలం కోసం నీటి నిల్వ ట్యాంకులను ఉపయోగించండి",
+        "శుద్ధ నీటి వనరులను నిర్ధారించండి",
+        "నీటి పాయింట్ల దగ్గర నీడ ఇవ్వండి",
+        "నీటి నాణ్యతను సాధారణంగా పర్యవేక్షించండి"
+      ]
+    }
+  }
+}

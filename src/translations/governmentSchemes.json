@@ -1,0 +1,135 @@
+{
+  "en": {
+    "title": "Government Schemes & Subsidies",
+    "subtitle": "Andhra Pradesh Government Support Programs",
+    "schemes": [
+      {
+        "id": 1,
+        "name": "Dairy Development Scheme",
+        "description": "Support for establishing dairy farms and milk production",
+        "benefits": "50% subsidy on dairy equipment, training programs, market linkage",
+        "eligibility": "Farmers with 2-10 dairy animals, minimum 0.5 acre land",
+        "howToApply": "Contact District Animal Husbandry Office with land documents and ID proof",
+        "website": "https://www.dahd.gov.in/",
+        "contact": "District Animal Husbandry Office, Chittoor"
+      },
+      {
+        "id": 2,
+        "name": "Poultry Development Program",
+        "description": "Subsidy for establishing poultry farms",
+        "benefits": "40% subsidy on shed construction, 50% on equipment, free training",
+        "eligibility": "Farmers, women groups, unemployed youth (age 18-45)",
+        "howToApply": "Apply through NABARD with project proposal and bank details",
+        "website": "https://www.nabard.org/",
+        "contact": "NABARD AP Regional Office"
+      },
+      {
+        "id": 3,
+        "name": "Fisheries Subsidy Scheme",
+        "description": "Support for fish farming and aquaculture development",
+        "benefits": "50% subsidy on pond construction, 40% on equipment, training",
+        "eligibility": "Farmers with suitable land (minimum 0.25 acre), water source",
+        "howToApply": "Contact Department of Fisheries with land survey documents",
+        "website": "https://fisheries.ap.gov.in/",
+        "contact": "District Fisheries Office, Chittoor"
+      },
+      {
+        "id": 4,
+        "name": "Livestock Insurance Scheme",
+        "description": "Insurance coverage for livestock against mortality",
+        "benefits": "Coverage up to Rs. 50,000 per animal, premium subsidy 50%",
+        "eligibility": "All livestock farmers with registered animals",
+        "howToApply": "Register with nearest insurance agent with animal documents",
+        "website": "https://www.dahd.gov.in/",
+        "contact": "Insurance Agent or District Office"
+      },
+      {
+        "id": 5,
+        "name": "Farmer Producer Organization (FPO) Support",
+        "description": "Assistance for forming and managing farmer groups",
+        "benefits": "Subsidy for group formation, training, market access",
+        "eligibility": "Minimum 10 farmers forming a group",
+        "howToApply": "Contact NABARD or District Agriculture Office",
+        "website": "https://www.nabard.org/",
+        "contact": "District Agriculture Office, Chittoor"
+      },
+      {
+        "id": 6,
+        "name": "Pradhan Mantri Fasal Bima Yojana",
+        "description": "Crop insurance scheme for farmers",
+        "benefits": "Insurance coverage for crop loss, premium subsidy",
+        "eligibility": "All farmers growing notified crops",
+        "howToApply": "Apply through bank or insurance company during crop season",
+        "website": "https://pmfby.gov.in/",
+        "contact": "Bank or Insurance Company"
+      }
+    ]
+  },
+
+  "te": {
+    "title": "ప్రభుత్వ పథకాలు మరియు సబ్సిడీలు",
+    "subtitle": "ఆంధ్ర ప్రదేశ్ ప్రభుత్వ సహాయ కార్యక్రమాలు",
+    "schemes": [
+      {
+        "id": 1,
+        "name": "పాలు అభివృద్ధి పథకం",
+        "description": "పాల పెంపకం మరియు పాల ఉత్పత్తి కోసం సహాయం",
+        "benefits": "పాల పరికరాలపై 50% సబ్సిడీ, శిక్షణ కార్యక్రమాలు, మార్కెట్ లింకేజ్",
+        "eligibility": "2-10 పాల జంతువులు ఉన్న రైతులు, కనీసం 0.5 ఎకరల భూమి",
+        "howToApply": "భూ పత్రాలు మరియు ID ప్రూఫ్‌తో జిల్లా జంతువుల సంరక్షణ కార్యాలయానికి సంప్రదించండి",
+        "website": "https://www.dahd.gov.in/",
+        "contact": "జిల్లా జంతువుల సంరక్షణ కార్యాలయం, చిత్తూర్"
+      },
+      {
+        "id": 2,
+        "name": "పిల్లుల అభివృద్ధి కార్యక్రమం",
+        "description": "పిల్లుల పెంపకం కోసం సబ్సిడీ",
+        "benefits": "గుండ్ర నిర్మాణంపై 40% సబ్సిడీ, పరికరాలపై 50%, ఉచిత శిక్షణ",
+        "eligibility": "రైతులు, మహిళా సమూహాలు, నిరుద్యోగ యువకులు (వయస్సు 18-45)",
+        "howToApply": "ప్రాజెక్ట్ ప్రతిపాదన మరియు బ్యాంక్ వివరాలతో నాబార్డ్ ద్వారా దరఖాస్తు చేయండి",
+        "website": "https://www.nabard.org/",
+        "contact": "నాబార్డ్ AP ప్రాంతీయ కార్యాలయం"
+      },
+      {
+        "id": 3,
+        "name": "చేపల పెంపకం సబ్సిడీ పథకం",
+        "description": "చేపల పెంపకం మరియు జలసంపద అభివృద్ధికి సహాయం",
+        "benefits": "చెరువు నిర్మాణంపై 50% సబ్సిడీ, పరికరాలపై 40%, శిక్షణ",
+        "eligibility": "తగిన భూమి ఉన్న రైతులు (కనీసం 0.25 ఎకర), నీటి వనరు",
+        "howToApply": "భూ సర్వే పత్రాలతో చేపల పెంపకం విభాగానికి సంప్రదించండి",
+        "website": "https://fisheries.ap.gov.in/",
+        "contact": "జిల్లా చేపల పెంపకం కార్యాలయం, చిత్తూర్"
+      },
+      {
+        "id": 4,
+        "name": "జంతువుల బీమా పథకం",
+        "description": "మరణానికి వ్యతిరేకంగా జంతువుల బీమా కవరేజ్",
+        "benefits": "జంతువుకు రూ. 50,000 వరకు కవరేజ్, ప్రీమియం సబ్సిడీ 50%",
+        "eligibility": "నిబంధిత జంతువులు ఉన్న అన్ని జంతువుల రైతులు",
+        "howToApply": "జంతువుల పత్రాలతో సమీప బీమా ఏజెంట్‌కు నమోదు చేయండి",
+        "website": "https://www.dahd.gov.in/",
+        "contact": "బీమా ఏజెంట్ లేదా జిల్లా కార్యాలయం"
+      },
+      {
+        "id": 5,
+        "name": "రైతు ఉత్పత్తి సంస్థ (FPO) సహాయం",
+        "description": "రైతు సమూహాలను ఏర్పాటు చేయడానికి మరియు నిర్వహించడానికి సహాయం",
+        "benefits": "సమూహ ఏర్పాటుకు సబ్సిడీ, శిక్షణ, మార్కెట్ ప్రాప్తి",
+        "eligibility": "సమూహం ఏర్పాటు చేసే కనీసం 10 రైతులు",
+        "howToApply": "నాబార్డ్ లేదా జిల్లా వ్యవసాయ కార్యాలయానికి సంప్రదించండి",
+        "website": "https://www.nabard.org/",
+        "contact": "జిల్లా వ్యవసాయ కార్యాలయం, చిత్తూర్"
+      },
+      {
+        "id": 6,
+        "name": "ప్రధానమంత్రి ఫసల్ బీమా యోజన",
+        "description": "రైతుల కోసం పంట బీమా పథకం",
+        "benefits": "పంట నష్టానికి బీమా కవరేజ్, ప్రీమియం సబ్సిడీ",
+        "eligibility": "నిర్దిష్ట పంటలను పండించే అన్ని రైతులు",
+        "howToApply": "పంట కాలంలో బ్యాంక్ లేదా బీమా కంపెనీ ద్వారా దరఖాస్తు చేయండి",
+        "website": "https://pmfby.gov.in/",
+        "contact": "బ్యాంక్ లేదా బీమా కంపెనీ"
+      }
+    ]
+  }
+}

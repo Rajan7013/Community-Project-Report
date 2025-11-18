@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#15803d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0284c7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="512" height="512" fill="url(#bgGradient)"/>
+  
+  <!-- Rounded corners effect -->
+  <rect width="512" height="512" rx="100" fill="url(#bgGradient)"/>
+  
+  <!-- Cow icon (main symbol) -->
+  <g transform="translate(256, 256)">
+    <!-- Cow head -->
+    <circle cx="0" cy="-20" r="45" fill="#ffffff" opacity="0.95"/>
+    
+    <!-- Horns -->
+    <path d="M -35 -50 Q -50 -70 -40 -90" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M 35 -50 Q 50 -70 40 -90" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round"/>
+    
+    <!-- Eyes -->
+    <circle cx="-15" cy="-30" r="5" fill="#15803d"/>
+    <circle cx="15" cy="-30" r="5" fill="#15803d"/>
+    
+    <!-- Snout -->
+    <ellipse cx="0" cy="10" rx="15" ry="12" fill="#ffffff" opacity="0.9"/>
+    
+    <!-- Nostrils -->
+    <circle cx="-8" cy="12" r="3" fill="#15803d"/>
+    <circle cx="8" cy="12" r="3" fill="#15803d"/>
+    
+    <!-- Ears -->
+    <ellipse cx="-35" cy="-15" rx="10" ry="18" fill="#ffffff" opacity="0.9"/>
+    <ellipse cx="35" cy="-15" rx="10" ry="18" fill="#ffffff" opacity="0.9"/>
+    
+    <!-- Body -->
+    <ellipse cx="0" cy="60" rx="50" ry="60" fill="#ffffff" opacity="0.9"/>
+    
+    <!-- Legs -->
+    <rect x="-35" y="100" width="12" height="50" rx="6" fill="#ffffff" opacity="0.9"/>
+    <rect x="-10" y="100" width="12" height="50" rx="6" fill="#ffffff" opacity="0.9"/>
+    <rect x="10" y="100" width="12" height="50" rx="6" fill="#ffffff" opacity="0.9"/>
+    <rect x="35" y="100" width="12" height="50" rx="6" fill="#ffffff" opacity="0.9"/>
+    
+    <!-- Tail -->
+    <path d="M 45 80 Q 70 70 75 40" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.9"/>
+  </g>
+  
+  <!-- Text badge -->
+  <text x="256" y="480" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, sans-serif">CSP</text>
+</svg>

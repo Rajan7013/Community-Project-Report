@@ -1,0 +1,393 @@
+{
+  "en": {
+    "title": "NGO & Organization Resources",
+    "subtitle": "Connect with Local NGOs, National Organizations, and Veterinary Services",
+    "sections": [
+      {
+        "category": "Local NGOs in Chittoor",
+        "organizations": [
+          {
+            "name": "Karuna Society for Animals & Nature",
+            "type": "Animal Welfare NGO",
+            "location": "Chittoor City",
+            "services": ["Animal rescue", "Veterinary care", "Community awareness", "Shelter management"],
+            "contact": "Phone: 08572-XXXXXX",
+            "website": "www.karunasociety.org"
+          },
+          {
+            "name": "Chittoor District Livestock Development Association",
+            "type": "Farmers' Association",
+            "location": "Chittoor District",
+            "services": ["Farmer training", "Market linkage", "Collective marketing", "Financial support"],
+            "contact": "Phone: 08572-XXXXXX",
+            "website": "www.cdlda.org"
+          }
+        ]
+      },
+      {
+        "category": "National Animal Welfare Organizations",
+        "organizations": [
+          {
+            "name": "People for Animals (PFA)",
+            "type": "National NGO",
+            "location": "Pan-India",
+            "services": ["Animal rescue", "Veterinary services", "Advocacy", "Education programs"],
+            "contact": "Phone: 011-XXXXXX",
+            "website": "www.peopleforanimalsindia.org"
+          },
+          {
+            "name": "PETA India",
+            "type": "Animal Rights Organization",
+            "location": "Pan-India",
+            "services": ["Animal welfare campaigns", "Legal support", "Rescue operations", "Education"],
+            "contact": "Phone: 080-XXXXXX",
+            "website": "www.petaindia.com"
+          },
+          {
+            "name": "World Animal Protection India",
+            "type": "International NGO",
+            "location": "Pan-India",
+            "services": ["Livestock welfare", "Policy advocacy", "Training programs", "Research"],
+            "contact": "Phone: 011-XXXXXX",
+            "website": "www.worldanimalprotection.org.in"
+          },
+          {
+            "name": "Humane Society International India",
+            "type": "International NGO",
+            "location": "Pan-India",
+            "services": ["Animal welfare", "Veterinary support", "Community programs", "Advocacy"],
+            "contact": "Phone: 011-XXXXXX",
+            "website": "www.hsi.org"
+          }
+        ]
+      },
+      {
+        "category": "Government Veterinary Services",
+        "organizations": [
+          {
+            "name": "District Veterinary Hospital, Chittoor",
+            "type": "Government Hospital",
+            "location": "Chittoor City",
+            "services": ["Veterinary treatment", "Animal health camps", "Vaccination programs", "Emergency care"],
+            "contact": "Phone: 08572-228456",
+            "website": "www.dahd.gov.in"
+          },
+          {
+            "name": "Veterinary Polyclinic, Chittoor",
+            "type": "Government Clinic",
+            "location": "Chittoor City",
+            "services": ["Outpatient care", "Diagnosis", "Treatment", "Consultation"],
+            "contact": "Phone: 08572-223789",
+            "website": "www.dahd.gov.in"
+          }
+        ]
+      },
+      {
+        "category": "Training & Development Centers",
+        "organizations": [
+          {
+            "name": "Veterinary College, Andhra Pradesh",
+            "type": "Educational Institution",
+            "location": "Tirupati, AP",
+            "services": ["Veterinary education", "Research programs", "Extension services", "Training workshops"],
+            "contact": "Phone: 0877-XXXXXX",
+            "website": "www.apcvsc.org"
+          },
+          {
+            "name": "ICAR - Krishi Vigyan Kendra (KVK), Chittoor",
+            "type": "Research & Training Center",
+            "location": "Chittoor District",
+            "services": ["Farmer training", "Technology demonstration", "Problem solving", "Skill development"],
+            "contact": "Phone: 08572-XXXXXX",
+            "website": "www.icar.org.in"
+          },
+          {
+            "name": "NABARD Training Centers",
+            "type": "Financial Institution Training",
+            "location": "Chittoor District",
+            "services": ["Financial literacy", "Entrepreneurship training", "Group formation", "Market linkage"],
+            "contact": "Phone: 08572-XXXXXX",
+            "website": "www.nabard.org"
+          }
+        ]
+      },
+      {
+        "category": "Cooperative & Self-Help Groups",
+        "organizations": [
+          {
+            "name": "Dairy Cooperative Societies",
+            "type": "Cooperative Organization",
+            "location": "Chittoor District",
+            "services": ["Milk collection", "Quality testing", "Fair pricing", "Input supply"],
+            "contact": "Contact local cooperative office",
+            "website": "www.apddcf.org"
+          },
+          {
+            "name": "Women Self-Help Groups (SHGs)",
+            "type": "Community Organization",
+            "location": "Nandanoor and nearby villages",
+            "services": ["Savings & credit", "Skill training", "Income generation", "Social support"],
+            "contact": "Contact village MGNREGA office",
+            "website": "www.nrlm.gov.in"
+          },
+          {
+            "name": "Farmer Producer Organizations (FPOs)",
+            "type": "Farmer Group",
+            "location": "Chittoor District",
+            "services": ["Collective marketing", "Input supply", "Training programs", "Financial support"],
+            "contact": "Contact District Agriculture Office",
+            "website": "www.nabard.org"
+          }
+        ]
+      }
+    ],
+    "quickLinks": {
+      "title": "Quick Access Links",
+      "links": [
+        {
+          "name": "Chittoor District Official Website",
+          "url": "https://chittoor.ap.gov.in/"
+        },
+        {
+          "name": "NABARD - Agricultural Finance",
+          "url": "https://www.nabard.org/"
+        },
+        {
+          "name": "Department of Animal Husbandry",
+          "url": "https://www.dahd.gov.in/"
+        },
+        {
+          "name": "ICAR - Agricultural Research",
+          "url": "https://www.icar.org.in/"
+        },
+        {
+          "name": "CIFRI - Fish Farming",
+          "url": "https://www.cifri.res.in/"
+        },
+        {
+          "name": "National Livestock Mission",
+          "url": "https://nlm.gov.in/"
+        }
+      ]
+    },
+    "howToConnect": {
+      "title": "How to Connect with Organizations",
+      "steps": [
+        "Identify your need (training, financial support, veterinary care, etc.)",
+        "Find relevant organization from the list above",
+        "Contact through phone or visit office",
+        "Provide necessary documents and information",
+        "Attend orientation/registration session",
+        "Participate in programs and services",
+        "Provide feedback for improvement"
+      ]
+    },
+    "benefits": {
+      "title": "Benefits of Connecting",
+      "points": [
+        "Access to expert guidance and training",
+        "Financial support and subsidies",
+        "Veterinary care and health services",
+        "Market linkage and fair pricing",
+        "Community support and networking",
+        "Skill development and empowerment"
+      ]
+    }
+  },
+
+  "te": {
+    "title": "NGO మరియు సంస్థ వనరులు",
+    "subtitle": "స్థానిక NGO, జాతీయ సంస్థలు మరియు పశువైద్య సేవలతో సంయోగం",
+    "sections": [
+      {
+        "category": "చిత్తూర్‌లో స్థానిక NGO",
+        "organizations": [
+          {
+            "name": "కరుణ సమాజం జంతువులు మరియు ప్రకృతి కోసం",
+            "type": "జంతువుల సంరక్షణ NGO",
+            "location": "చిత్తూర్ నగరం",
+            "services": ["జంతువుల రక్షణ", "పశువైద్య సంరక్షణ", "సమాజ సంచేతన", "ఆశ్రయ నిర్వహణ"],
+            "contact": "ఫోన్: 08572-XXXXXX",
+            "website": "www.karunasociety.org"
+          },
+          {
+            "name": "చిత్తూర్ జిల్లా పశుసంపద అభివృద్ధి సంఘం",
+            "type": "రైతుల సంఘం",
+            "location": "చిత్తూర్ జిల్లా",
+            "services": ["రైతు శిక్షణ", "మార్కెట్ లింకేజ్", "సమిష్ట విపణనం", "ఆర్థిక సహాయం"],
+            "contact": "ఫోన్: 08572-XXXXXX",
+            "website": "www.cdlda.org"
+          }
+        ]
+      },
+      {
+        "category": "జాతీయ జంతువుల సంరక్షణ సంస్థలు",
+        "organizations": [
+          {
+            "name": "జంతువుల కోసం ప్రజలు (PFA)",
+            "type": "జాతీయ NGO",
+            "location": "సర్వ భారతదేశం",
+            "services": ["జంతువుల రక్షణ", "పశువైద్య సేవలు", "న్యాయవాదం", "విద్య కార్యక్రమాలు"],
+            "contact": "ఫోన్: 011-XXXXXX",
+            "website": "www.peopleforanimalsindia.org"
+          },
+          {
+            "name": "PETA ఇండియా",
+            "type": "జంతువుల హక్కుల సంస్థ",
+            "location": "సర్వ భారతదేశం",
+            "services": ["జంతువుల సంరక్షణ ప్రచారాలు", "చట్టపరమైన సహాయం", "రక్షణ కార్యకలాపాలు", "విద్య"],
+            "contact": "ఫోన్: 080-XXXXXX",
+            "website": "www.petaindia.com"
+          },
+          {
+            "name": "ప్రపంచ జంతువుల సంరక్షణ ఇండియా",
+            "type": "అంతర్జాతీయ NGO",
+            "location": "సర్వ భారతదేశం",
+            "services": ["పశుసంపద సంరక్షణ", "విధాన న్యాయవాదం", "శిక్షణ కార్యక్రమాలు", "పరిశోధన"],
+            "contact": "ఫోన్: 011-XXXXXX",
+            "website": "www.worldanimalprotection.org.in"
+          },
+          {
+            "name": "మానవ సమాజం అంతర్జాతీయ ఇండియా",
+            "type": "అంతర్జాతీయ NGO",
+            "location": "సర్వ భారతదేశం",
+            "services": ["జంతువుల సంరక్షణ", "పశువైద్య సహాయం", "సమాజ కార్యక్రమాలు", "న్యాయవాదం"],
+            "contact": "ఫోన్: 011-XXXXXX",
+            "website": "www.hsi.org"
+          }
+        ]
+      },
+      {
+        "category": "ప్రభుత్వ పశువైద్య సేవలు",
+        "organizations": [
+          {
+            "name": "జిల్లా పశువైద్య ఆసుపత్రి, చిత్తూర్",
+            "type": "ప్రభుత్వ ఆసుపత్రి",
+            "location": "చిత్తూర్ నగరం",
+            "services": ["పశువైద్య చికిత్స", "జంతువుల ఆరోగ్య శిబిరాలు", "టీకా కార్యక్రమాలు", "అత్యవసర సంరక్షణ"],
+            "contact": "ఫోన్: 08572-228456",
+            "website": "www.dahd.gov.in"
+          },
+          {
+            "name": "పశువైద్య పాలిక్లినిక్, చిత్తూర్",
+            "type": "ప్రభుత్వ క్లినిక్",
+            "location": "చిత్తూర్ నగరం",
+            "services": ["బాహ్య రోగి సంరక్షణ", "రోగ నిర్ధారణ", "చికిత్స", "సలహా"],
+            "contact": "ఫోన్: 08572-223789",
+            "website": "www.dahd.gov.in"
+          }
+        ]
+      },
+      {
+        "category": "శిక్షణ మరియు అభివృద్ధి కేంద్రాలు",
+        "organizations": [
+          {
+            "name": "పశువైద్య కళాశాల, ఆంధ్ర ప్రదేశ్",
+            "type": "విద్యా సంస్థ",
+            "location": "తిరుపతి, AP",
+            "services": ["పశువైద్య విద్య", "పరిశోధన కార్యక్రమాలు", "విస్తరణ సేవలు", "శిక్షణ కార్యశాలలు"],
+            "contact": "ఫోన్: 0877-XXXXXX",
+            "website": "www.apcvsc.org"
+          },
+          {
+            "name": "ICAR - కృషి విజ్ఞాన కేంద్రం (KVK), చిత్తూర్",
+            "type": "పరిశోధన మరియు శిక్షణ కేంద్రం",
+            "location": "చిత్తూర్ జిల్లా",
+            "services": ["రైతు శిక్షణ", "సాంకేతికత ప్రదర్శన", "సమస్య పరిష్కారం", "నైపుణ్య అభివృద్ధి"],
+            "contact": "ఫోన్: 08572-XXXXXX",
+            "website": "www.icar.org.in"
+          },
+          {
+            "name": "నాబార్డ్ శిక్షణ కేంద్రాలు",
+            "type": "ఆర్థిక సంస్థ శిక్షణ",
+            "location": "చిత్తూర్ జిల్లా",
+            "services": ["ఆర్థిక సాక్షరత", "ఉద్యోగస్థ శిక్షణ", "సమూహ ఏర్పాటు", "మార్కెట్ లింకేజ్"],
+            "contact": "ఫోన్: 08572-XXXXXX",
+            "website": "www.nabard.org"
+          }
+        ]
+      },
+      {
+        "category": "సహకార మరియు స్వయం సహాయ సమూహాలు",
+        "organizations": [
+          {
+            "name": "పాల సహకార సమితులు",
+            "type": "సహకార సంస్థ",
+            "location": "చిత్తూర్ జిల్లా",
+            "services": ["పాలు సేకరణ", "నాణ్యత పరీక్ష", "న్యాయమైన ధర", "ఇన్‌పుట్ సరఫరా"],
+            "contact": "స్థానిక సహకార కార్యాలయానికి సంప్రదించండి",
+            "website": "www.apddcf.org"
+          },
+          {
+            "name": "మహిళా స్వయం సహాయ సమూహాలు (SHGs)",
+            "type": "సమాజ సంస్థ",
+            "location": "నందనూర్ మరియు సమీప గ్రామాలు",
+            "services": ["సేవ మరియు రుణం", "నైపుణ్య శిక్షణ", "ఆదాయ ఉత్పత్తి", "సామాజిక సహాయం"],
+            "contact": "గ్రామ MGNREGA కార్యాలయానికి సంప్రదించండి",
+            "website": "www.nrlm.gov.in"
+          },
+          {
+            "name": "రైతు ఉత్పత్తి సంస్థలు (FPOs)",
+            "type": "రైతు సమూహం",
+            "location": "చిత్తూర్ జిల్లా",
+            "services": ["సమిష్ట విపణనం", "ఇన్‌పుట్ సరఫరా", "శిక్షణ కార్యక్రమాలు", "ఆర్థిక సహాయం"],
+            "contact": "జిల్లా వ్యవసాయ కార్యాలయానికి సంప్రదించండి",
+            "website": "www.nabard.org"
+          }
+        ]
+      }
+    ],
+    "quickLinks": {
+      "title": "శీఘ్ర ప్రాప్తి లింకులు",
+      "links": [
+        {
+          "name": "చిత్తూర్ జిల్లా అధికారిక వెబ్‌సైట్",
+          "url": "https://chittoor.ap.gov.in/"
+        },
+        {
+          "name": "నాబార్డ్ - వ్యవసాయ ఆర్థిక సేవ",
+          "url": "https://www.nabard.org/"
+        },
+        {
+          "name": "జంతువుల సంరక్షణ విభాగం",
+          "url": "https://www.dahd.gov.in/"
+        },
+        {
+          "name": "ICAR - వ్యవసాయ పరిశోధన",
+          "url": "https://www.icar.org.in/"
+        },
+        {
+          "name": "CIFRI - చేపల పెంపకం",
+          "url": "https://www.cifri.res.in/"
+        },
+        {
+          "name": "జాతీయ పశుసంపద మిషన్",
+          "url": "https://nlm.gov.in/"
+        }
+      ]
+    },
+    "howToConnect": {
+      "title": "సంస్థలతో సంయోగం ఎలా",
+      "steps": [
+        "మీ అవసరాన్ని గుర్తించండి (శిక్షణ, ఆర్థిక సహాయం, పశువైద్య సంరక్షణ, మొదలైనవి)",
+        "పైన ఉన్న జాబితా నుండి సంబంధిత సంస్థను కనుగొనండి",
+        "ఫోన్ ద్వారా సంప్రదించండి లేదా కార్యాలయ సందర్శన చేయండి",
+        "అవసరమైన పత్రాలు మరియు సమాచారం ఇవ్వండి",
+        "ఓరియంటేషన్/నమోదు సెషన్‌కు హాజరు కండి",
+        "కార్యక్రమాలు మరియు సేవలలో పాల్గొనండి",
+        "మెరుగుదల కోసం ఫీడ్‌బ్యాక్ ఇవ్వండి"
+      ]
+    },
+    "benefits": {
+      "title": "సంయోగం యొక్క ప్రయోజనాలు",
+      "points": [
+        "నిపుణ మార్గదర్శకత మరియు శిక్షణకు ప్రాప్తి",
+        "ఆర్థిక సహాయం మరియు సబ్సిడీలు",
+        "పశువైద్య సంరక్షణ మరియు ఆరోగ్య సేవలు",
+        "మార్కెట్ లింకేజ్ మరియు న్యాయమైన ధర",
+        "సమాజ సహాయం మరియు నెట్‌వర్కింగ్",
+        "నైపుణ్య అభివృద్ధి మరియు సశక్తీకరణ"
+      ]
+    }
+  }
+}
